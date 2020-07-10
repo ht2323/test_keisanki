@@ -3,7 +3,7 @@ answer=[1,1,1,1,0,1,1]
 
 score = 0
 for i in range(len(X)):
-    if X[i]==answer[i]
+    if X[i]==answer[i]:
         score += 1
     else:
         score += 0 
